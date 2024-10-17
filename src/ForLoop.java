@@ -16,7 +16,7 @@ public class ForLoop {
         var counter = 1;
         for (; counter < 10; ) {
             System.out.println("Hello World with infinite loop" + counter);
-            counter++
+            counter++;
         }
     }
 
